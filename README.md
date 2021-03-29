@@ -60,3 +60,18 @@
 <br>
 
 ---
+
+## Syntax Highlighting
+- 코드 블록 코드 ` ( ``` ) ` 앞에 사용한 프로그래밍 언어를 적으면 그에 맞게 Highlighting이 적용된다.
+  - javascript의 경우
+  ```javascript
+  function fancyAlert(arg) {
+    if(arg) {
+      $.facebox({div:'#foo'})
+    }
+  }
+  ```
+
+<br>
+
+---
