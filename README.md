@@ -22,3 +22,30 @@
 ---
 
 ## Task Lists
+- 아래와 같이 사용해 Task Lists를 표시할 수 있다.
+
+  ```
+  - [x] This is complete Task.
+    - [ ] Nested Task.
+  - [ ] This is incomplete Task.
+  ```
+  > - [x] This is complete Task.
+  >   - [ ] Nested Task.
+  > - [ ] This is incomplete Task.
+  
+<br>
+
+---
+
+## StrikeThrough
+- `~~ + 단어 + ~~`를 사용하면 단어에 취소선을 표현할 수 있다.
+  
+  ```
+  ~~StrikeThrough~~
+  ```
+  > ~~StrikeThrough~~
+
+<br>
+
+---
+
